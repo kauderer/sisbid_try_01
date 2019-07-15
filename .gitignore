@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# you can add private data (anything you don't want to share into a .gitignore file)
+# automatically created if you open a project in R
